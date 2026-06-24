@@ -1,6 +1,7 @@
 package org.example.LoopingQuestion;
 
 import java.util.Scanner;
+//hard question...............
 
 public class TotalDivisior {
     public static void main(String[] args) {
