@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class CheckPalindromeNumber {
     public static void checkpalindrome(int n){
+        // no n ko return krne me bhi ydi vo no ,n ke bara bar aata hai to vo number palindrome hai
          String st="";
          int num=n;
          if(n<0){

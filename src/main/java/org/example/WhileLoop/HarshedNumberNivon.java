@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class HarshedNumberNivon {
     public static void main(String[] args) {
+        // yesi value jiske digit ko add krke yadi vo s=vah given n no ko divede kr deti hai to vo value harshed no hai
         Scanner sc=new Scanner(System.in);
         System.out.println(" enter the no for check the no is nivon no or not....");
         int num=sc.nextInt();

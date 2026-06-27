@@ -3,6 +3,7 @@ package org.example.WhileLoop;
 import java.util.Scanner;
 
 public class PerfectSquare {
+    // jo value ham dete usko btata hai ki kiska square hai ye
     public  static String isperfectsquare(int num){
         int a=1;
         int b=num;

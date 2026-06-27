@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class ChekNoisStrongorNot {
     public static void main(String[] args) {
+        //vah no jiske sabhi digit ka factorial nikal ke add krne me no ke barabar aa jaye Strong no hote hai
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the no of n for check no is strong or not...");
         int num=sc.nextInt();

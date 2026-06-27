@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class AbundantNumber {
     public static void checkAbundantNo(int n){
+        // yadi no ke sabhi factor ko nikalkr add krte hai or ye yadi no se bade aate hai to yah abundant no hai
         int sum=0;
         int a=1;
         while (a<n){

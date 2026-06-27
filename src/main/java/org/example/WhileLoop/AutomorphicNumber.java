@@ -3,6 +3,8 @@ package org.example.WhileLoop;
 import java.util.Scanner;
 
 public class AutomorphicNumber {
+    //user dwara diya gya no n ka square krte hai ot last ki digit me ydi vo hi no n aata hai to vo automorphic no hai
+
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println(" enter the no  ");
