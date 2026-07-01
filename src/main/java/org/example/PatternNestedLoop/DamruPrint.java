@@ -22,10 +22,6 @@ public class DamruPrint {
             }
             System.out.println();
         }
-
-
-
-
             // lower
         for (int i = n-1; i >= 1; i--) {
             //left

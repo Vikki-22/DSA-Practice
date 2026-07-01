@@ -7,7 +7,6 @@ public class khaliDabba {
         System.out.println("enter the no of n ");
         Scanner sc =new Scanner(System.in);
         int n=sc.nextInt();
-
         for(int i=1;i<=n;i++){
             for (int j=1;j<=n;j++){
                 if(i==n||j==n || i==1 || j==1){
@@ -16,8 +15,6 @@ public class khaliDabba {
                 else{
                     System.out.print("  ");
                 }
-
-
             }
             System.out.println();
 
